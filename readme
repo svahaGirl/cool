@@ -1,0 +1,40 @@
+install mongodb  
+npm install mongodb
+
+install node
+node -v
+
+install vs code and extensions
+extensions:
+
+    JavaScript (ES6) Code Snippets
+    ES7 React extension
+    ESLint extension
+    Node Debug
+    CSS Peek
+
+Chrome
+    React Developer Tools
+    Redux Developer Tools
+
+https://devconnected.com/how-to-delete-a-github-repository/
+https://github.com/svahaGirl
+
+Git
+install Git
+git --version
+
+API manager: postman
+https://www.postman.com/downloads/
+
+https://signup.heroku.com/account
+https://cloud.mongodb.com/v2/60fa08a1274d6d346dc55efa#clusters/edit?filter=starter
+
+***********************************************************************************************************
+npx create-react-app react-shopping-cart
+cd react-shopping-cart
+npm start
+web_project\react-shopping-cart> code .             // use this to open a new  VS code window only for this app
+
+create a new git repository and copy code add to terminal.
+git remote add origin https://github.com/svahaGirl/react-shopping-cart.git
